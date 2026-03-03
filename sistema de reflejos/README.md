@@ -1,7 +1,10 @@
 Descripción
+
 Sistema basado en ESP32 que mide el tiempo de reacción de uno o dos jugadores ante estímulos aleatorios visuales o sonoros.
 
 Hardware
+
+
 ESP32
 3 LEDs
 1 Buzzer activo
